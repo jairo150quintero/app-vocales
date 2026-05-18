@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta Educativa -->
+    <color name="vowel_a_color">#FF5252</color> <!-- Rojo -->
+    <color name="vowel_e_color">#4CAF50</color> <!-- Verde -->
+    <color name="vowel_i_color">#2196F3</color> <!-- Azul -->
+    <color name="vowel_o_color">#FF9800</color> <!-- Naranja -->
+    <color name="vowel_u_color">#9C27B0</color> <!-- Morado -->
+
+    <color name="panel_background">#CCFFFFFF</color>
+    <color name="button_gradient_start">#FFEB3B</color>
+    <color name="button_gradient_end">#FBC02D</color>
+
+    <!-- Tonos Pastel Infantiles -->
+    <color name="pastel_pink">#FFD1DC</color>
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="pastel_yellow">#FFF9B1</color>
+    <color name="pastel_green">#B3E5BE</color>
+    <color name="pastel_purple">#D9B3FF</color>
+    <color name="title_color">#5D4037</color>
+</resources>

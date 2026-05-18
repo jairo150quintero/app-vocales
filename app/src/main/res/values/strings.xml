@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VocalesRA</string>
+    <string name="instruction_start">¡Busca las vocales en la pared!</string>
+    <string name="instruction_step">¿Dónde está la vocal %1$s? ¡Búscala en la pared!</string>
+    <string name="success_message">¡MUY BIEN!</string>
+    <string name="found_toast">¡Excelente! Encontraste la %1$s</string>
+    <string name="next_vowel">¡Siguiente Vocal!</string>
+    <string name="vowel_a">A de Avión</string>
+    <string name="vowel_e">E de Elefante</string>
+    <string name="vowel_i">I de Iguana</string>
+    <string name="vowel_o">O de Oso</string>
+    <string name="vowel_u">U de Unicornio</string>
+    <string name="mensaje">Hola Profe</string>
+    <string name="boton_texto">Presionar</string>
+    <string name="start_title">VOCALES RA</string>
+    <string name="start_subtitle">Repasa las vocales con realidad aumentada</string>
+    <string name="btn_play">¡A JUGAR!</string>
+    <string name="vowels_display">A  E  I  O  U</string>
+    <string name="btn_credits">Créditos</string>
+    <string name="credits_title">Equipo de Creación</string>
+    <string name="credits_owner">Propietario: TecnoLab 360 </string>
+    <string name="credits_designer">Diseñador: Tecnosistemas </string>
+    <string name="credits_authors">Autores: Ing. Lina Maya - Phd. Jairo Quintero </string>
+    <string name="btn_close">Cerrar</string>
+    <string name="desc_back_home">Volver al inicio</string>
+</resources>
